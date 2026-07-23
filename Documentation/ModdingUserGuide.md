@@ -1,7 +1,7 @@
 # Rooftops and Alleys Modding User Guide
 ## Requirements
-**Modkit Version: 1.0 ->** `Plugin/RNAModkit`  
-**Base Game Release Version:** INSERT HERE  
+**Modkit Version: 1.0 ->** `../Plugin/RNAModkit`  
+**Base Game Release Version: 1.8 ->** [https://github.com/Shine-Publishing/Rooftops-and-Alleys-Modkit/releases/download/v1.0.0-experimental/BaseGameRelease.zip](https://github.com/Shine-Publishing/Rooftops-and-Alleys-Modkit/releases/download/v1.0.0-experimental/BaseGameRelease.zip)
 **Unreal Version: 5.4**  
 **Modio Unreal Version: 2026.6 ->**  [https://github.com/modio/modio-ue/releases/tag/v2026.6](https://github.com/modio/modio-ue/releases/tag/v2026.6)  
 **ModioUGC Version: 2026.3 ->** [https://github.com/modio/modio-ue-modiougc/releases/tag/v2026.6](https://github.com/modio/modio-ue-modiougc/releases/tag/v2026.6)

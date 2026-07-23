@@ -24,15 +24,18 @@ Mods for Rooftops and Alleys are packaged in the form of DLC Plugins. Follow the
 
 First, create a new Content Plugin:
 - Open your project in the Unreal Editor
-- At the top of the editor window, click on the [Mod.io](http://mod.io) widget ![](Images/OpeningModioWidget.png)
-- Select “Create Mods” to create a new plugin ![](Images/ModioWidgetCreateMod.png)
+- At the top of the editor window, click on the [Mod.io](http://mod.io) widget  
+![](Images/OpeningModioWidget.png)
+- Select “Create Mods” to create a new plugin  
+![](Images/ModioWidgetCreateMod.png)
 - In the New Mod window, fill in the different information with at least the Mod Name, Author, and Description.
 - Click “Create Mod Package”
 
 Now, time to create the content of your mod:
 - Open the Content Browser in the Unreal Editor
 - Go to `Mods/YourPluginName` content folder
-- First, edit the UUGC\_Metadata file like this: ![](Images/UGCMetadata.png)
+- First, edit the UUGC\_Metadata file like this:  
+![](Images/UGCMetadata.png)
 - Now, you can create your mod content. To do so, you can use the various **templates located in the RNAModkit plugin**. You will find:
   - Skeletons of the body and the head of the player character
   - Animation Blueprint templates for the pigeon
@@ -118,8 +121,10 @@ First, go to your project settings inside the Unreal Editor, and follow the foll
 3. Save
 
 Now you are ready to package your mod with Modio UGC:
-- At the top of the editor window, click on the [Mod.io](http://mod.io) widget ![](Images/OpeningModioWidget.png)
-- Now Select “Package Mods” ![](Images/ModioWidgetPackageMod.png)
+- At the top of the editor window, click on the [Mod.io](http://mod.io) widget  
+![](Images/OpeningModioWidget.png)
+- Now Select “Package Mods”  
+![](Images/ModioWidgetPackageMod.png)
 - Select your mod plugin, the Windows platform, and an output path, then click “package”. 
 > **/!\\ If you forgot to download the BaseGameRelease and add it to your game folder, the packaging will fail. /!\\**
 - Now, using your computer file explorer, navigate to the output folder you gave to the Modio widget.

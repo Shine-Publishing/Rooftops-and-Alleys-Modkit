@@ -31,7 +31,7 @@ First, create a new Content Plugin:
 
 Now, you can start creating the content of your mod:
 - Open the **Content Browser** in the editor.
-- Go to `Plugins/YourModName` content folder. 
+- Go to `Plugins/YourModName` content folder.  
 ![](Images/ModioAccessingModContent.png)
 - First, edit the **UUGC\_Metadata** data asset by adding a **Primary Asset Types to Scan** configured like this:  
   - **Primary Asset Type:** `Data Asset`

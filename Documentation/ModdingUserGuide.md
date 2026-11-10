@@ -17,7 +17,7 @@ The official Rooftops and Alleys modding support allows the following modificati
 - In the extracted directory, open `RooftopsandAlleys.uproject` with **Unreal Engine 5.4**.
 
 ## Mod creation video tutorial
-<video src="Videos/Creatinglevelmod.mp4"></video>
+https://github.com/user-attachments/assets/36b38606-020d-4cbe-8c40-0594d53b9956
 
 ## Mod creation
 ### Creating a blank mod
